@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.WebAPI", "Demo.WebAPI\Demo.WebAPI.csproj", "{C6B0A831-014F-4430-9A68-6D326A298421}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastleCredit.API.Base.Abstractions.Library", "CastleCredit.Web.Base.Abstractions.Library\CastleCredit.API.Base.Abstractions.Library.csproj", "{8F26668F-AE87-4DEC-A0AD-3A5EADFFB3EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6B0A831-014F-4430-9A68-6D326A298421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B0A831-014F-4430-9A68-6D326A298421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B0A831-014F-4430-9A68-6D326A298421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B0A831-014F-4430-9A68-6D326A298421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F26668F-AE87-4DEC-A0AD-3A5EADFFB3EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F26668F-AE87-4DEC-A0AD-3A5EADFFB3EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F26668F-AE87-4DEC-A0AD-3A5EADFFB3EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F26668F-AE87-4DEC-A0AD-3A5EADFFB3EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {881A35DB-58CC-47D8-A2C5-6980BD44E3BC}
+	EndGlobalSection
+EndGlobal
